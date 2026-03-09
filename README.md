@@ -12,7 +12,6 @@
 - 📍 Kerala, India
 - 🌱 Exploring the intersection of **Machine Learning**, **Quant Finance** & **Business Strategy**
 - 🏅 SEBI Investor Awareness Certified (NISM, March 2026)
-- 📚 Currently reading: The Intelligent Investor
 
 ---
 
