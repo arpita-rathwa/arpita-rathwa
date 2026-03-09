@@ -11,7 +11,9 @@
 - 🎓 B.Tech Electrical & Electronics Engineering @ NIT Calicut
 - 📍 Kerala, India
 - 🌱 Exploring the intersection of **Machine Learning**, **Quant Finance** & **Business Strategy**
-  
+- 🏅 SEBI Investor Awareness Certified (NISM, March 2026)
+- 📚 Currently reading: The Intelligent Investor
+
 ---
 
 ## 🛠 Tech Stack
@@ -33,10 +35,24 @@
 
 👉 **[My Project Portfolio](https://mud-poultry-9ae.notion.site/Arpita-Rathwa-Project-Portfolio-d3e5cf79659d83ddb2e38198ae436d6a?source=copy_link)**
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpita-rathwa&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-rathwa&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+## 🏅 Certifications
+- SEBI Investor Awareness Test — NISM (March 2026)
+
+---
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpita-rathwa-677b6837a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpita.n.rathwa@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/arpitarathwa)
-**arpita-rathwa/arpita-rathwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
