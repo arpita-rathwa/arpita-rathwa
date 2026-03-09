@@ -1,43 +1,53 @@
-# Hi, I'm Arpita Rathwa 👋
-
-🎓 B.Tech EEE @ NIT Calicut (Year 1)
-📍 Kerala, India
-🌱 Exploring ML, Quant Finance & Business Strategy
+<div align="center">
+  <h1>Hi, I'm Arpita Rathwa 👋</h1>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=B.Tech+EEE+%40+NIT+Calicut;ML+%2B+Finance+%2B+Strategy;Building+one+project+at+a+time" alt="Typing SVG" />
+  </p>
+</div>
 
 ---
 
-## 🛠 Skills & Tools
-**Design & Productivity:**
-Figma · Canva · PowerPoint · Excel
+## 🧠 About Me
+- 🎓 B.Tech Electrical & Electronics Engineering @ NIT Calicut
+- 📍 Kerala, India
+- 🌱 Exploring the intersection of **Machine Learning**, **Quant Finance** & **Business Strategy**
+  
+---
 
-**Programming:**
-Python (Basics) · HTML · JavaScript (Basics)
+## 🛠 Tech Stack
 
-**Other:**
-Git · GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 📌 Projects
-### 🏛 Judicial Case Scheduler
-Fair and transparent hearing time estimation system using bounded priority queues for judicial scheduling.
-- Built with JavaScript and HTML
-- Features dynamic ETA calculation and fair scheduling
-- [View Project](https://github.com/Anchit-code/judicial-case-scheduler)
+> View all projects with full descriptions, results and links:
 
-### 📊 Winter Consulting Capstone — IIT Guwahati
-Consulting project on reducing missed appointments in telemedicine.
-- Applied MECE framework, root cause analysis
-- Proposed Intelligent Triage System as primary recommendation
-- Tools: Excel, PowerPoint
+👉 **[My Project Portfolio](https://mud-poultry-9ae.notion.site/Arpita-Rathwa-Project-Portfolio-d3e5cf79659d83ddb2e38198ae436d6a?source=copy_link)**
 
 ---
 
-## 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/arpita-rathwa-677b6837a)
-- 📧 arpita.n.rathwa@gmail.com
+## 📊 GitHub Stats
 
-<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpita-rathwa&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-rathwa&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpita-rathwa-677b6837a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpita.n.rathwa@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/arpitarathwa)
 **arpita-rathwa/arpita-rathwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
