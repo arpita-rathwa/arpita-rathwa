@@ -33,16 +33,6 @@
 
 👉 **[My Project Portfolio](https://mud-poultry-9ae.notion.site/Arpita-Rathwa-Project-Portfolio-d3e5cf79659d83ddb2e38198ae436d6a?source=copy_link)**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpita-rathwa&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-rathwa&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpita-rathwa-677b6837a)
@@ -50,14 +40,3 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/arpitarathwa)
 **arpita-rathwa/arpita-rathwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
