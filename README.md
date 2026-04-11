@@ -11,9 +11,7 @@
 - 🎓 B.Tech Electrical & Electronics Engineering @ NIT Calicut
 - 📍 Kerala, India
 - 🌱 Exploring the intersection of **Machine Learning**, **Quant Finance** & **Business Strategy**
-- 🏅 SEBI Investor Awareness Certified (NISM, March 2026)
-
----
+----
 
 ## 🛠 Tech Stack
 
@@ -33,11 +31,6 @@
 > View all projects with full descriptions, results and links:
 
 👉 **[My Project Portfolio](https://mud-poultry-9ae.notion.site/Arpita-Rathwa-Project-Portfolio-d3e5cf79659d83ddb2e38198ae436d6a?source=copy_link)**
-
----
-
-## 🏅 Certifications
-- SEBI Investor Awareness Test — NISM (March 2026)
 
 ---
 
