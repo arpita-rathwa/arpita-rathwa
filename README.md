@@ -25,15 +25,6 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📌 Projects
-> View all projects with full descriptions, results and links:
-
-👉 **[My Project Portfolio](https://mud-poultry-9ae.notion.site/Arpita-Rathwa-Project-Portfolio-d3e5cf79659d83ddb2e38198ae436d6a?source=copy_link)**
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpita-rathwa-677b6837a)
