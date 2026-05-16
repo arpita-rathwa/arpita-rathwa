@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Arpita Rathwa</h1>
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=B.Tech+EEE+%40+NIT+Calicut;ML+%2B+Data+Science+%2B+Business+Strategy;Building+one+project+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=B.Tech+EEE+%40+NIT+Calicut;ML+%2B+Data+Science+%2B+Business+Strategy;Paradox+over+Prejudice" alt="Typing SVG" />
   </p>
 </div>
 
