@@ -13,7 +13,7 @@ B.Tech Electrical & Electronics Engineering student at **NIT Calicut**, Kerala. 
 
 When I'm not building something, I'm watching films, listening to music, or shooting on VSCO — [arpee-ta](https://vsco.co/arpee-ta/gallery).
 
-Fun fact: I have OCD — which honestly makes me a better engineer.
+Fun fact: I have OCD .
 
 ---
 
